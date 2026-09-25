@@ -1,3 +1,7 @@
+# Programa   de admision
+
+
+
 logs = ["ERROR", "INFO", "WARN", "ERROR", "INFO", "ERROR"]
 
 a = logs.count("ERROR")
